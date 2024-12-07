@@ -1,0 +1,31 @@
+``
+-Dashboard Sheet Tab
+The Dashboard Sheet is the heart of the income dashboard, featuring multiple charts and slicers for easy  data visualization and filtering.'''
+
+'''Top Section Charts:
+##Total Amount by Payment Method: --This doughnut chart displays the total amount of income by various payment methods such as Bank Transfer, Cash, Credit Deposit, PayPal, etc.
+##Total Amount by Source: --A bar chart that visualizes the total income by source, including Rental Income, Salary, Consulting Fees, Freelance Projects, Dividends, Selling Art, Gifts, Interest, and Cashback.
+##Total Amount by Category: --This 3D pie chart shows the total income by category, highlighting Property, Side Business, Freelancer, Investment, Job Income, etc.
+
+Middle Section:
+Total Amount by Date: This is a line chart. We are showing here income trends by date.
+Bottom Section:
+Total Amount by Received By: A column chart that presents the total income by the recipient, offering insights into who receives the most payments.
+
+Slicers:
+The dashboard includes slicers for Source, Received By, Recurring, Payment Method, Category, and Month, allowing for easy filtering and data analysis.
+
+Data Sheet Tab
+The Data Sheet Tab is where you enter your transaction data. The columns include:
+
+Date: Enter the transaction date.
+Source: Select the income source from a dropdown list.
+Amount: Enter the income amount.
+Category: Select the income category from a dropdown list.
+Payment Method: Choose the payment method from the dropdown list.
+Notes: Add any relevant notes.
+Recurring: Indicate whether the income is recurring (Yes/No).
+Status: Enter the income status as received.
+Received By: Specify who received the payment.
+Contact Info: Provide the email address of the payer.
+Month: This is a formula field. You don’t need to enter anything here.
