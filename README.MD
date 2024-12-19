@@ -29,4 +29,7 @@ This repo on Data Analytics In Excel will help to understand the various crucial
 
 ### ppt presentation templates
 
-![[ppt presentation templates](./Presentation1.pps)](./ppt.GIF)
+![[ppt presentation templates](./ppt/certificate.pps)](./ppt.GIF)
+
+![[](./ppt/Presentation1.pps)](./ppt/ppt.png)
+
