@@ -23,3 +23,10 @@ This repo on Data Analytics In Excel will help to understand the various crucial
 [![Dashboard](./Project/superstore_SalesDashboard.PNG)](./Project/superstore_SalesDashboard.xlsx)
 
 
+### document writing in ms word google docs 
+
+![[document writing in ms word google docs ](./BOOK%20.docx)](./Books.GIF)
+
+### ppt presentation templates
+
+![[ppt presentation templates](./Presentation1.pps)](./ppt.GIF)
