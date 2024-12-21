@@ -1,6 +1,7 @@
  
 
 This repo on Data Analytics In Excel will help to understand the various crucial functions available in Excel, such as vlookup, hlookup, sumif/s, counif/s, iferror and others. Finally, you will see how to use the Data Analysis Toolpak to perform various data analysis operations such as:
+
 1. Basic of excel  <a href="(https://1drv.ms/f/c/8cde32f38b783a7a/Eq7jaKsGpWVDrpEYNtEoWRkBDsGCXLtcPHKfytTR4LEfVg?e=3lhl2c"> Excel Function </a>
 2. Lookup & functions [Lookup]
 
