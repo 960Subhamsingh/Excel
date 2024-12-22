@@ -9,7 +9,7 @@ This repo on Data Analytics In Excel will help to understand the various crucial
 
 2. Lookup & functions [Lookup](//https://1drv.ms/x/c/8cde32f38b783a7a/EZ6eynUCjmFCrlA68pgYsHkBpu3LO5XnOzSP14CNtcfHtQ?e=usRgXX)
 
-<a href=" https://1drv.ms/x/c/8cde32f38b783a7a/EZ6eynUCjmFCrlA68pgYsHkBpu3LO5XnOzSP14CNtcfHtQ?e=s7CPJw"> Link </a>
+https://1drv.ms/x/c/8cde32f38b783a7a/EZ6eynUCjmFCrlA68pgYsHkBpu3LO5XnOzSP14CNtcfHtQ?e=s7CPJw">
 
 
 3. Conditional formating [![Condtional Formating](./Basic%20function/conditional.png)](./Basic%20function/Conditional%20formatitng.xlsx)
