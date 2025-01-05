@@ -6,7 +6,6 @@ This repo on Data Analytics In Excel will help to understand the various crucial
     - **Advance Excel Pratice file:**  ![[Advance Pratice file](./Basic%20function/)](./Basic%20function/conditional.png)
 
 
-
 2. Lookup & functions [Lookup](//https://1drv.ms/x/c/8cde32f38b783a7a/EZ6eynUCjmFCrlA68pgYsHkBpu3LO5XnOzSP14CNtcfHtQ?e=usRgXX)
 
 3. Conditional formating [![Condtional Formating](./Basic%20function/conditional.png)](./Basic%20function/Conditional%20formatitng.xlsx)
@@ -21,13 +20,23 @@ This repo on Data Analytics In Excel will help to understand the various crucial
 ## Dashboard
 
 **Ecommerce-Sales-Analysis**
+```
+An Ecommerce Sales Analysis Dashboard showcasing proficient data analysis in Microsoft Excel. Gain insights into sales, profit, regional performance, category-wise profitability, top-selling subcategories, and a pie chart analysis of ecommerce sales composition. This project offers a data-driven approach to decision-making within the ecommerce sector, aiding in revenue optimization and strategic planning
+```
+
 [![](./Project/DashBoard%20Image.png)](./Project/E_comer_sales_Dashboard.xlsx)
 
 **MacDonald Sales**
+
+Discover the 'MacDonald's Sales 2022 Dashboard,' a project that offers a comprehensive analysis of sales and customer-related data within the fast-food industry. This analysis includes insights into sales, profit, and the number of customers, a sales trend graph comparing 2021 to 2022, a pie chart of customer satisfaction, and a breakdown of sales by country in 2022. Gain valuable insights into financial performance, year-over-year trends, and customer sentiment to enhance strategic decision-making for MacDonald's
+
 [![](./Project/Mac_Dashboard.png)](./Project/MacDonald%20Sales%20Analysis%20Dashboard.xlsx)
 
 
 **Adidas Sales Analysis**
+
+Explore the 'Adidas Sales Analysis Dashboard' project, which offers an in-depth analysis of Adidas's sales performance. This analysis includes sales in USD ($), sales by region, and sales by method, providing insights into financial performance and distribution strategies. Additionally, a bar graph visualizes retailer sales and profit, helping to identify key contributors to overall sales and profitability in the sportswear industry
+
 [![](./Project/Adidas-Sales-Analysis.png)](./Project/Adidas-Sales-Analysis.xlsx)
 
 ***SalesDashboad*** [![Sales](./Project/Sales%20Dashboard.png)](./Project/Sales%20Data_Dashboard.xlsx)
@@ -48,3 +57,9 @@ This repo on Data Analytics In Excel will help to understand the various crucial
 
 ![[](./ppt/Presentation1.pps)](./ppt/ppt.png)
 
+
+**connect with me :**
+
+**Name:-** Subham Kumar
+**Email:-** kumarsubham0734@gmail.com
+**Linkden:-** https://www.linkedin.com/in/ksubham/
