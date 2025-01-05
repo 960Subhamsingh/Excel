@@ -60,6 +60,6 @@ Explore the 'Adidas Sales Analysis Dashboard' project, which offers an in-depth 
 
 **connect with me :**
 
-**Name:-** Subham Kumar
-**Email:-** kumarsubham0734@gmail.com
+**Name:-** Subham Kumar  
+**Email:-** kumarsubham0734@gmail.com   
 **Linkden:-** https://www.linkedin.com/in/ksubham/
