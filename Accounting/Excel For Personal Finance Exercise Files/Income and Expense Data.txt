@@ -1,0 +1,47 @@
+HOUSING
+Mortgage or rent
+Phone
+Electricity
+Gas
+Water and sewer
+Cable
+Waste removal
+Maintenance or repairs
+Supplies
+TRANSPORTATION
+Vehicle payment
+Bus/taxi fare
+Insurance
+Licensing
+Fuel
+Maintenance
+INSURANCE
+Home
+Health
+Life
+FOOD
+Groceries
+Dining out
+PETS
+Food
+Medical
+Grooming
+Toys
+PERSONAL CARE
+Medical
+Hair/nails
+Clothing
+Dry cleaning
+Health club
+Organization dues or fees
+ENTERTAINMENT
+Movies
+Concerts
+Sporting events
+Live theater
+LOANS
+Personal
+Student
+Credit card
+Credit card
+Credit card
